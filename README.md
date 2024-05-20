@@ -2,7 +2,7 @@
 
 Meu nome é Júlia
 
-- Estou estudando no alura
+- Estou estudando no [alura](https://cursos.alura.com.br/dashboard)
 - Estou me desenvolvendo na linguagem javaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
 
